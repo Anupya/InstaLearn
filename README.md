@@ -20,6 +20,9 @@ We built the backend and frontend using Android Studio and Java. We used InVisio
 ## Development
 Clone this repo to your machine and open instalearner in Android Studio. Build. Run.
 
+## Check it out
+[<img height="50" width="50" src="https://github.com/Anupya/InstaLearn/blob/master/screenshots/HElogo.png">](https://ellehacks.hackerearth.com/sprints/elle-hacks-2019/dashboard/5112bf8/submission) [<img height="54" width="54" src="https://github.com/Anupya/InstaLearn/blob/master/screenshots/devpostlogo.jpg">](https://devpost.com/software/instalearn-stvrxc)
+
 ## Screenshots
 <img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/feed1.jpg" alt="alt text" width="285" height="600">
 <img src="https://github.com/ElleHacks2019-InstaLearn/InstaLearn/blob/master/screenshots/feed2.jpg" alt="alt text" width="285" height="600">
